@@ -10,7 +10,7 @@ body {background-color: black;}
 #messageArea { position: absolute;
                 top: 0px;
                 left: 0px;
-                color:red;
+                color: rgb(168, 50, 105);
 }
 
 table{ position: absolute;

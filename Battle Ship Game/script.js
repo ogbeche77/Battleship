@@ -176,6 +176,7 @@ function init() {
 
 
     model.generateShipLocations();
+    model.generateShipLocations();
     
 
 }
